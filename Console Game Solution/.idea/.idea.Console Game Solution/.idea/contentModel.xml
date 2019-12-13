@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\GitHub\progModJuleProsjekt\Console Game Solution" t="IncludeFlat">
+      <e p="Console Game" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Console Game.csproj" t="IncludeRecursive" />
+        <e p="EnemyEntity.cs" t="Include" />
+        <e p="Entity.cs" t="Include" />
+        <e p="Game.cs" t="Include" />
+        <e p="GUI.cs" t="Include" />
+        <e p="MiscEntities.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Release" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Console Game.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PlayerEntity.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="ValuesToSetFromScreenSize.cs" t="Include" />
+      </e>
+      <e p="Console Game Solution.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\mrpew\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\mrpew\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mrpew\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Console Game Solution.-1442830182.00" t="ExcludeRecursive" />
+  </component>
+</project>

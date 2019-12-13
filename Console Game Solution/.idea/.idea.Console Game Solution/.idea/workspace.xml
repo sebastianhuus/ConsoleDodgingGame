@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23e61e6e-35e8-4d5e-959c-5817bdfe6331" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Console Game Solution/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Console Game Solution/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Console Game Solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Console Game Solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game Solution.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game Solution.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game/ValuesToSetFromScreenSize.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/ValuesToSetFromScreenSize.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game/bin/Debug/netcoreapp3.0/Console Game.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/bin/Debug/netcoreapp3.0/Console Game.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game/bin/Debug/netcoreapp3.0/Console Game.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/bin/Debug/netcoreapp3.0/Console Game.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game/obj/Debug/netcoreapp3.0/Console Game.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/obj/Debug/netcoreapp3.0/Console Game.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game/obj/Debug/netcoreapp3.0/Console Game.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/obj/Debug/netcoreapp3.0/Console Game.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Console Game/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Console Game/ValuesToSetFromScreenSize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Console Game/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Console Game/MiscEntities.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Console Game/GUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Console Game/PlayerEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Console Game/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Console Game/EnemyEntity.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../README.md" />
+        <option value="$PROJECT_DIR$/Console Game/Program.cs" />
+        <option value="$PROJECT_DIR$/../Buglist.md" />
+        <option value="$PROJECT_DIR$/Console Game/MiscEntities.cs" />
+        <option value="$PROJECT_DIR$/Console Game/EnemyEntity.cs" />
+        <option value="$PROJECT_DIR$/Console Game/PlayerEntity.cs" />
+        <option value="$PROJECT_DIR$/Console Game/Entity.cs" />
+        <option value="$PROJECT_DIR$/Console Game/GUI.cs" />
+        <option value="$PROJECT_DIR$/Console Game/Game.cs" />
+        <option value="$PROJECT_DIR$/../../Progmod-Juleprosjekt/README.md" />
+        <option value="$PROJECT_DIR$/Console Game/hei per.cs" />
+        <option value="$PROJECT_DIR$/Console Game/ValuesToSetFromScreenSize.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UUL3dFICBmHDvULj68t6u761H7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Console Game/bin/Debug/netcoreapp3.0/Console Game.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Console Game/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="1" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Console Game/Console Game.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23e61e6e-35e8-4d5e-959c-5817bdfe6331" name="Default Changelist" comment="" />
+      <created>1575406029549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575406029549</updated>
+      <workItem from="1575406033149" duration="2417000" />
+      <workItem from="1575447378607" duration="12886000" />
+      <workItem from="1575478518847" duration="4066000" />
+      <workItem from="1575489374262" duration="2595000" />
+      <workItem from="1575492620967" duration="754000" />
+      <workItem from="1575495373849" duration="619000" />
+      <workItem from="1575536191506" duration="5102000" />
+      <workItem from="1575568391505" duration="4302000" />
+      <workItem from="1575581597354" duration="2242000" />
+      <workItem from="1575615739759" duration="2050000" />
+      <workItem from="1575622456149" duration="7281000" />
+      <workItem from="1575718299277" duration="21542000" />
+      <workItem from="1575892460978" duration="173000" />
+      <workItem from="1576143143828" duration="3635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

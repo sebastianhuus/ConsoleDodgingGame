@@ -1,0 +1,11 @@
+C:\Github\progModJuleProsjekt\Console Game Solution\Console Game\bin\Release\netcoreapp3.0\Console Game.exe
+C:\Github\progModJuleProsjekt\Console Game Solution\Console Game\bin\Release\netcoreapp3.0\Console Game.deps.json
+C:\Github\progModJuleProsjekt\Console Game Solution\Console Game\bin\Release\netcoreapp3.0\Console Game.runtimeconfig.json
+C:\Github\progModJuleProsjekt\Console Game Solution\Console Game\bin\Release\netcoreapp3.0\Console Game.runtimeconfig.dev.json
+C:\Github\progModJuleProsjekt\Console Game Solution\Console Game\bin\Release\netcoreapp3.0\Console Game.dll
+C:\Github\progModJuleProsjekt\Console Game Solution\Console Game\bin\Release\netcoreapp3.0\Console Game.pdb
+C:\Github\progModJuleProsjekt\Console Game Solution\Console Game\obj\Release\netcoreapp3.0\Console Game.csprojAssemblyReference.cache
+C:\Github\progModJuleProsjekt\Console Game Solution\Console Game\obj\Release\netcoreapp3.0\Console Game.AssemblyInfoInputs.cache
+C:\Github\progModJuleProsjekt\Console Game Solution\Console Game\obj\Release\netcoreapp3.0\Console Game.AssemblyInfo.cs
+C:\Github\progModJuleProsjekt\Console Game Solution\Console Game\obj\Release\netcoreapp3.0\Console Game.dll
+C:\Github\progModJuleProsjekt\Console Game Solution\Console Game\obj\Release\netcoreapp3.0\Console Game.pdb
