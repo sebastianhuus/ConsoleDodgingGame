@@ -9,3 +9,9 @@ Spillet kjører bare 1 gang. Når man taper, lukkes vinduet etter at man trykker
 Du finner selve spillet (uten source code ) under \Spill. Spillet tar ca. 200 mb fordi det er self-contained og inneholder alle nødvendige c# libraries. 
 
 **Du må tillate at .exe filen kjøres, fordi Windows blokkerer den automatisk :((**
+
+## Source code
+Du finner selve c# solutionen under \Console Game Solution.
+Hvis du vil titte på enkelte filer, finner du de under "\Console Game Solution\Console Game".
+
+Filen "MiscEntities.cs" er ubrukt, men var ment til å holde på andre objekter enn fiender og players. Planen var å ha et objekt som kunne "spille ping pong" med fiendene; dvs. å slå dem motsatt vei slik at spilleren må unngå fiender fra høyre og venstre side. 
