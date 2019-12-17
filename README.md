@@ -16,7 +16,9 @@ Hvis du vil titte på enkelte filer, finner du de under "\Console Game Solution\
 
 Filen "MiscEntities.cs" er ubrukt, men var ment til å holde på andre objekter enn fiender og players. Planen var å ha et objekt som kunne "spille ping pong" med fiendene; dvs. å slå dem motsatt vei slik at spilleren må unngå fiender fra høyre og venstre side. 
 
-### Showcase av litt kode
+### Showcase av litt kode  
+Under er en liten kode som kontrollerer fiendene. En utfordring jeg møtte på her, var å få fienden til å kunne bevege seg på en fast måte, uten å gå 1000 cells i sekundet. ( Så fort som pc-en klarer å kjøre loopen )   
+Derfor la jeg til en kode som tar tiden slik at fienden beveger seg hvert x-te sekund.
 ```c#  
 public override void UpdateEntity(int deltaTime)
         {
