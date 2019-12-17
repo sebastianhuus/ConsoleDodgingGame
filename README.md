@@ -17,7 +17,7 @@ Hvis du vil titte på enkelte filer, finner du de under "\Console Game Solution\
 Filen "MiscEntities.cs" er ubrukt, men var ment til å holde på andre objekter enn fiender og players. Planen var å ha et objekt som kunne "spille ping pong" med fiendene; dvs. å slå dem motsatt vei slik at spilleren må unngå fiender fra høyre og venstre side. 
 
 ### Showcase av litt kode
-'''c#  
+```c#  
 public override void UpdateEntity(int deltaTime)
         {
             // Checks if this instance has hit the left edge.
@@ -47,4 +47,4 @@ public override void UpdateEntity(int deltaTime)
             base.UpdateEntity(deltaTime);
         }
     }
-'''
+```
