@@ -17,7 +17,7 @@ namespace Console_Game
 
             Console.SetWindowSize(ValuesToSetFromScreenSize.WindowWidth, ValuesToSetFromScreenSize.WindowHeight);
 
-            Console.BufferWidth = Console.WindowWidth;
+            Console.BufferWidth = Console.WindowWidth; 
             Console.BufferHeight = Console.WindowHeight;
             
             ValuesToSetFromScreenSize.SetValues();

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Github\\progModJuleProsjekt\\Console Game Solution\\Console Game\\Console Game.csproj",
+    "projectUniqueName": "C:\\Github\\ConsoleDodgingGame\\Console Game Solution\\Console Game\\Console Game.csproj",
     "projectName": "Console Game",
-    "projectPath": "C:\\Github\\progModJuleProsjekt\\Console Game Solution\\Console Game\\Console Game.csproj",
-    "outputPath": "C:\\Github\\progModJuleProsjekt\\Console Game Solution\\Console Game\\obj\\",
+    "projectPath": "C:\\Github\\ConsoleDodgingGame\\Console Game Solution\\Console Game\\Console Game.csproj",
+    "outputPath": "C:\\Github\\ConsoleDodgingGame\\Console Game Solution\\Console Game\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

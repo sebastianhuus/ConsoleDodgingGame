@@ -4,12 +4,13 @@
     <list default="true" id="23e61e6e-35e8-4d5e-959c-5817bdfe6331" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Console Game Solution/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Console Game Solution/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Console Game Solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Console Game Solution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Console Game Solution.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game Solution.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Console Game/ValuesToSetFromScreenSize.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/ValuesToSetFromScreenSize.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Console Game/bin/Debug/netcoreapp3.0/Console Game.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/bin/Debug/netcoreapp3.0/Console Game.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Console Game/bin/Debug/netcoreapp3.0/Console Game.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/bin/Debug/netcoreapp3.0/Console Game.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Console Game/obj/Debug/netcoreapp3.0/Console Game.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/obj/Debug/netcoreapp3.0/Console Game.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Console Game/obj/Debug/netcoreapp3.0/Console Game.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/obj/Debug/netcoreapp3.0/Console Game.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game/obj/Console Game.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/obj/Console Game.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game/obj/Console Game.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/obj/Console Game.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game/obj/Release/netcoreapp3.0/Console Game.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/obj/Release/netcoreapp3.0/Console Game.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game/obj/Release/netcoreapp3.0/Console Game.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/obj/Release/netcoreapp3.0/Console Game.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console Game/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Console Game/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,30 +36,30 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Console Game/GUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Console Game/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Console Game/PlayerEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Console Game/MiscEntities.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Console Game/Game.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Console Game/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Console Game/ValuesToSetFromScreenSize.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Console Game/Game.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Console Game/MiscEntities.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Console Game/GUI.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Console Game/PlayerEntity.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Console Game/Entity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Console Game/EnemyEntity.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../README.md" />
-        <option value="$PROJECT_DIR$/Console Game/Program.cs" />
         <option value="$PROJECT_DIR$/../Buglist.md" />
         <option value="$PROJECT_DIR$/Console Game/MiscEntities.cs" />
         <option value="$PROJECT_DIR$/Console Game/EnemyEntity.cs" />
         <option value="$PROJECT_DIR$/Console Game/PlayerEntity.cs" />
-        <option value="$PROJECT_DIR$/Console Game/Entity.cs" />
         <option value="$PROJECT_DIR$/Console Game/GUI.cs" />
         <option value="$PROJECT_DIR$/Console Game/Game.cs" />
         <option value="$PROJECT_DIR$/../../Progmod-Juleprosjekt/README.md" />
         <option value="$PROJECT_DIR$/Console Game/hei per.cs" />
         <option value="$PROJECT_DIR$/Console Game/ValuesToSetFromScreenSize.cs" />
+        <option value="$PROJECT_DIR$/Console Game/Program.cs" />
+        <option value="$PROJECT_DIR$/Console Game/Entity.cs" />
       </list>
     </option>
   </component>
@@ -127,6 +128,7 @@
       <workItem from="1575718299277" duration="21542000" />
       <workItem from="1575892460978" duration="173000" />
       <workItem from="1576143143828" duration="3635000" />
+      <workItem from="1576749272488" duration="887000" />
     </task>
     <servers />
   </component>
